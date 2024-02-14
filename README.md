@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi I'm a student in web development in France<br><br>📍 I'm currently working on improving my language knowledge<br>🎓 I am currently studying web development in France
 
-
+[![](https://visitcount.itsvg.in/api?id=Coding-Diligence&icon=5&color=3)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kilian_psd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kilian-poussard-599470296) 
 
@@ -10,7 +10,6 @@ Hi I'm a student in web development in France<br><br>📍 I'm currently working 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Coding-Diligence&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Coding-Diligence&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Diligence&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Coding-Diligence&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
@@ -21,5 +20,3 @@ Hi I'm a student in web development in France<br><br>📍 I'm currently working 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Coding-Diligence&icon=5&color=3)](https://visitcount.itsvg.in)
