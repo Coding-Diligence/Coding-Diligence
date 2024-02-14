@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm a student in web development in France<br><br>📍 I'm currently working on improving my language knowledge<br>🎓 I am currently studying web development in France
+Hi I'm a student in web development in France<br><br>👾 Coding since 2022<br>📍 I'm currently working on improving my language knowledge<br>🎓 I am currently studying web development in France
 
 [![](https://visitcount.itsvg.in/api?id=Coding-Diligence&icon=5&color=3)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
@@ -8,7 +8,7 @@ Hi I'm a student in web development in France<br><br>📍 I'm currently working 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Coding-Diligence&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Coding-Diligence&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Coding-Diligence&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
