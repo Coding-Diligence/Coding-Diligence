@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm a student in web development in France<br><br>👾 Coding since 2022<br>📍 I'm currently working on improving my language knowledge<br>🎓 I am currently studying web development in France
+Hi I'm a student in web development in France<br><br>👾 Coding since 2022<br>📍 I'm currently working on improving my language knowledge<br>🎓 I am currently studying web development in France<br>
 
 [![](https://visitcount.itsvg.in/api?id=Coding-Diligence&icon=5&color=3)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
